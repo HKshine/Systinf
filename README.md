@@ -3,7 +3,7 @@
 > **O sistema de inteligência cibernética que faz o N. parecer um brinquedo.**  
 > Terminal. Inteligente. Mortalmente informativo.
 
-![banner](https://fake-img-server/harpyfetch-banner.png) <!-- (ou substitua por arte ASCII local) -->
+![banner](Captura de tela 2025-05-17 10_20_52.png) <!-- (ou substitua por arte ASCII local) -->
 
 ## Descrição
 
