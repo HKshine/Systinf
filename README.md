@@ -2,6 +2,8 @@
 
 > **O sistema de inteligência cibernética que faz o N. parecer um brinquedo.**  
 > Terminal. Inteligente. Mortalmente informativo.
+---
+
 ![HarpyFetch Banner](hard1.png)
 
 ## Descrição
