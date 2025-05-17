@@ -31,6 +31,12 @@
 ## Instalação
 
 ```bash
-git clone https://github.com/seunome/harpyfetch.git
+git clone https://github.com/HKshine/Systinf.git 
 cd Systinf
 chmod +x hard.sh
+````
+Execute 
+```
+./hard.sh
+```
+
